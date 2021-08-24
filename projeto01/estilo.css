@@ -402,7 +402,7 @@ h2 {
     color: #fff;
 }
 /*RESPONSIVIDADE*/
-@media screen and (max-width: 320px){
+@media screen and (max-width: 530px){
     .logo a{
         width: 300px;
         height: 113px;
@@ -515,4 +515,6 @@ h2 {
         float: right;
         cursor: pointer;
     }
+}
+@media screen and(max-width ){
 }
