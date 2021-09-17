@@ -1,2 +1,2 @@
-# Trabalho 23/08/2021
+# Site Loja Digital "Abner, Leandro e Vinicius"
 site da loja "Abner Santos, Leandro de Oliveira, Vinicius Rodrigues"
